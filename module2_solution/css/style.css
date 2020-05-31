@@ -1,4 +1,4 @@
-/*basic style*/
+   /*basic style*/
     
     * {
         box-sizing: border-box;
@@ -29,7 +29,7 @@
     
     div {
         position: relative;
-        background-color: gray;
+        background-color: rgb(158, 152, 152);
         border: 1px solid black;
         width: 100%;
         margin-left: auto;
@@ -78,7 +78,7 @@
     .content {
         padding: 5px;
         border: none;
-        background-color: gray;
+        background-color: rgb(158, 152, 152);
         font-family: Helvetica;
         color: black;
         margin: 0px;
